@@ -1,0 +1,2 @@
+# test-dir-timepass
+timepass
