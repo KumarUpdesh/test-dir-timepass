@@ -1,0 +1,1000 @@
+ 1036  cat remove_backup.sh 
+ 1037  cat test_final.sh 
+ 1038  cd ..
+ 1039  ls -l
+ 1040  cat test_final.sh 
+ 1041  hostname
+ 1042  apache2 -version
+ 1043  ls -l
+ 1044  clear
+ 1045  systemctl status apache2
+ 1046  clear
+ 1047  ls -l
+ 1048  cat myfile 
+ 1049  top
+ 1050  free -h
+ 1051  sudo sh -c 'echo 1 >  /proc/sys/vm/drop_caches'
+ 1052  free -h
+ 1053  crontab -e
+ 1054  vi remove_buff_cache.sh
+ 1055  sudo apt install vim
+ 1056  vim -v
+ 1057  vi remove_buff_cache.sh 
+ 1058  crontab -l
+ 1059  crontab -e
+ 1060  pwd
+ 1061  ls -l
+ 1062  pwd
+ 1063  crontab -e
+ 1064  free -h
+ 1065  cat /etc/group
+ 1066  cat /etc/passwd
+ 1067  chmod +x remove_buff_cache.sh
+ 1068  cat /etc/passwd
+ 1069  clear
+ 1070  ls -l
+ 1071  cd ansible_testing/
+ 1072  ls -l
+ 1073  rm -rf test_folder/
+ 1074  rm -f make_file_by_ansible.txt 
+ 1075  ls
+ 1076  cd ..
+ 1077  ls -l
+ 1078  cat backup_of_rmfiles.txt 
+ 1079  cat backup_test.txt 
+ 1080  rm -f backup_of_rmfiles.txt backup_test.txt 
+ 1081  ls -l
+ 1082  cat file_form_ubuntu_20
+ 1083  cat file_path_backup.sh 
+ 1084  cp file_path_backup.sh scripting/
+ 1085  rm -f file_path_backup.sh 
+ 1086  ls -l
+ 1087  cd scripting/
+ 1088  ls -l
+ 1089  cd ..
+ 1090  cat history_02.txt 
+ 1091  ll
+ 1092  rm -rf .ansible/
+ 1093  ll
+ 1094  pwd
+ 1095  ll
+ 1096  rm -f make_file_by_ansible.txt 
+ 1097  mkdir ansible_testing
+ 1098  cd ansible_testing/
+ 1099  ll
+ 1100  cat make_file_by_ansible.txt 
+ 1101  ll
+ 1102  docker ps -a
+ 1103  docker ps
+ 1104  cd ..
+ 1105  docker ps -a
+ 1106  docker run -dit --name test centos:latest
+ 1107  sudo docker ps -a
+ 1108  sudo docker inspect | grep ip
+ 1109  sudo docker inspect
+ 1110  sudo docker inspect -h
+ 1111  sudo docker info
+ 1112  sudo docker inspect portainer
+ 1113  sudo docker ps -a
+ 1114  sudo docker exec -it portainer bash
+ 1115  sudo docker exec -it portainer sh
+ 1116  sudo docker exec -it portainer /bin/bash
+ 1117  sudo docker exec -it test /bin/bash
+ 1118  sudo docker inspect test
+ 1119  ssh root@172.17.0.2
+ 1120  sudo docker exec -it test /bin/bash
+ 1121  sudo docker ps -a
+ 1122  sudo docker info
+ 1123  sudo docker inspect portainer
+ 1124  clear
+ 1125  history
+ 1126  sudo docker exec -it portainer /bin/bash
+ 1127  sudo docker exec -it test /bin/bash
+ 1128  sudo docker ps -a
+ 1129  sudo docker stop portainer
+ 1130  sudo docker ps -a
+ 1131  sudo docker start portainer
+ 1132  sudo docker ps -a
+ 1133  sudo docker inspect portainer
+ 1134  sudo docker exec -it portainer /bin/bash
+ 1135  sudo docker exec -it portainer /bash
+ 1136  sudo docker exec -it portainer bash
+ 1137  sudo docker exec -it portainer sh
+ 1138  clear
+ 1139  sudo docker ps -a
+ 1140  cd scripting/
+ 1141  mkdir script
+ 1142  cd script/
+ 1143  vi begning.sh
+ 1144  chmod +x begning.sh
+ 1145  ./begning.sh 
+ 1146  vi begning.sh 
+ 1147  ./begning.sh 
+ 1148  vi begning.sh 
+ 1149  ./begning.sh
+ 1150  vi begning.sh 
+ 1151  mv begning.sh Shell_Scripting_Crash_Course-BeginneLevel.sh
+ 1152  ls -l
+ 1153  ./Shell_Scripting_Crash_Course-BeginneLevel.sh 
+ 1154  ls -l
+ 1155  ./begning.sh 
+ 1156  clear
+ 1157  ./begning.sh
+ 1158  ls -l
+ 1159  cd he
+ 1160  cd hello/
+ 1161  ls -l
+ 1162  cat world.txt 
+ 1163  top
+ 1164  ls -l
+ 1165  cd scripting/
+ 1166  ls -l
+ 1167  vi while_loop.sh
+ 1168  chmod +x while_loop.sh 
+ 1169  ./while_loop.sh 
+ 1170  vi while_loop.sh
+ 1171  ./while_loop.sh 
+ 1172  vi while_loop.sh
+ 1173  ./while_loop.sh 
+ 1174  vi for_loop.sh
+ 1175  chmod +x for_loop.sh 
+ 1176  ./for_loop.sh 
+ 1177  vi until_loop.sh
+ 1178  chmod +x until_loop.sh 
+ 1179  ./until_loop.sh 
+ 1180  clear
+ 1181  vi until_loop.sh
+ 1182  ./until_loop.sh 
+ 1183  clear
+ 1184  vi until_loop.sh
+ 1185  ./until_loop.sh 
+ 1186  clear
+ 1187  vi until_loop2.sh
+ 1188  chmod +x until_loop2.sh
+ 1189  ./until_loop2.sh 
+ 1190  vi until_loop.sh
+ 1191  ./until_loop2.sh 
+ 1192  ./until_loop.sh 
+ 1193  vi until_loop.sh
+ 1194  ./until_loop.sh 
+ 1195  vi until_loop.sh
+ 1196  ./until_loop.sh 
+ 1197  vi until_loop.sh
+ 1198  vi until_loop2.sh
+ 1199  ./until_loop2.sh 
+ 1200  vi until_loop2.sh
+ 1201  ./until_loop2.sh 
+ 1202  vi until_loop2.sh
+ 1203  ./until_loop2.sh 
+ 1204  vi selection_loop.sh
+ 1205  chmod +x selection_loop.sh 
+ 1206  clear
+ 1207  ./selection_loop.sh 
+ 1208  vi select_loop2.sh
+ 1209  chmod +x select_loop2.sh
+ 1210  ./select_loop2.sh 
+ 1211  vi select_loop2.sh
+ 1212  ./select_loop2.sh 
+ 1213  vi select_loop2.sh
+ 1214  ./select_loop2.sh 
+ 1215  vi conditional_statement.sh
+ 1216  chmod +x conditional_statement.sh 
+ 1217  ./conditional_statement.sh 
+ 1218  echo $USER
+ 1219  vi conditional_statement.sh
+ 1220  echo $USER
+ 1221  ./conditional_statement.sh 
+ 1222  echo $USER
+ 1223  vi conditional_statement.sh
+ 1224  ./conditional_statement.sh 
+ 1225  ls -l
+ 1226  cd ..
+ 1227  ls -l
+ 1228  cd fileDeletion/
+ 1229  ls -l
+ 1230  pwd
+ 1231  cd ..
+ 1232  cd scripting/
+ 1233  ll
+ 1234  clear
+ 1235  vi path_found.sh
+ 1236  chmod +x path_found.sh 
+ 1237  ./path_found.sh 
+ 1238  ls /home/kubernets/fileDeletion
+ 1239  vi path_found.sh
+ 1240  ./path_found.sh 
+ 1241  echo ls /home/kubernets/fileDeletion
+ 1242  $#
+ 1243  minikube version
+ 1244  minikube delete --all --purge
+ 1245  kubectl version
+ 1246  sudo apt-get update -y
+ 1247  ls -l
+ 1248  cd ..
+ 1249  ls-l
+ 1250  ls -l
+ 1251  cd ..
+ 1252  ls -l
+ 1253  cd usr/local/bin/
+ 1254  ls -l
+ 1255  rm -rf kubectl minikube 
+ 1256  sudo rm -rf kubectl minikube 
+ 1257  ls -l
+ 1258  cd ../../..
+ 1259  ls -l
+ 1260  cd -
+ 1261  cd home/
+ 1262  ls -l
+ 1263  cd kubernets/
+ 1264  ls -l
+ 1265  sudo apt-get update -y
+ 1266  sudo apt-get upgrade -y
+ 1267  sudo apt-get install curl
+ 1268  sudo apt-get install apt-transport-https
+ 1269  sudo apt install virtualbox virtualbox-ext-pack
+ 1270  sudo apt-get update
+ 1271  docker version
+ 1272  docker ps -a
+ 1273  docker ps
+ 1274  docker ps -a
+ 1275  docker ps
+ 1276  minikube version
+ 1277  minikube
+ 1278  kubectl
+ 1279  minikube
+ 1280  200~sudo apt-get update -y
+ 1281  sudo apt-get update -y
+ 1282  sudo install docker
+ 1283  sudo install docker.io
+ 1284  sudo apt-get install curl
+ 1285  sudo apt-get install apt-transport-https
+ 1286  sudo apt install virtualbox virtualbox-ext-pack
+ 1287  sudo wget https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+ 1288  sudo cp minikube-linux-amd64 /usr/local/bin/minikube
+ 1289  sudo chmod 755 /usr/local/bin/minikube
+ 1290  minikube version
+ 1291  sudo curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
+ 1292  chmod +x ./kubectl
+ 1293  sudo chmod +x ./kubectl
+ 1294  sudo mv ./kubectl /usr/local/bin/kubectl
+ 1295  sudo kubectl version -o json
+ 1296  $HOME/.kube/config
+ 1297  sudo $HOME/.kube/config
+ 1298  export KUBECONFIG=/etc/kubernetes/admin.conf
+ 1299  cp /etc/kubernetes/admin.conf $HOME/
+ 1300  cp /etc/ $HOME/
+ 1301  cd /usr/local/bin/kubectl
+ 1302  cd /usr/local/bin/
+ 1303  ls -l
+ 1304  cat kubectl 
+ 1305  clear
+ 1306  ls -l
+ 1307  vi kubectl 
+ 1308  cd ../..
+ 1309  cd ..
+ 1310  ls -l
+ 1311  cd home/
+ 1312  ls -
+ 1313  ls -l
+ 1314  cd kubernets/
+ 1315  ls -l
+ 1316  cd ..
+ 1317  ls -
+ 1318  ls -l
+ 1319  cd home/
+ 1320  cd kubernets/
+ 1321  ls -l
+ 1322  chown $(id -u):$(id -g) $HOME/admin.conf
+ 1323  export KUBECONFIG=$HOME/admin.conf
+ 1324  ls -l
+ 1325  kubectl version -o json
+ 1326  minikube start
+ 1327  kubectl config view
+ 1328  kubectl cluster-info
+ 1329  kubectl get nodes
+ 1330  kubectl get pod
+ 1331  minikube ssh
+ 1332  kubectl get pod
+ 1333  miniube status
+ 1334  minikube status
+ 1335  docker ps -a
+ 1336  kubectl get pods
+ 1337  docker ps -a
+ 1338  docker start 0118aca1a2ac
+ 1339  docker ps -a
+ 1340  minikube status
+ 1341  minikube update-context
+ 1342  minikube status
+ 1343  kubeclt get pods
+ 1344  kubectl get pods
+ 1345  minikube stop
+ 1346  minikube statu
+ 1347  minikube status
+ 1348  minikube start
+ 1349  minikube status
+ 1350  kubectl get pods
+ 1351  clear
+ 1352  minikube stop
+ 1353  minikube status
+ 1354  minikube start
+ 1355  clear
+ 1356  ls -lrth
+ 1357  cd kubernetesPractice/
+ 1358  ls -lrht
+ 1359  mkdir deployment
+ 1360  vi replicontrolr.yml
+ 1361  kubectl apply -f replicontrolr.yml
+ 1362  kubectl get pod
+ 1363  kubectl get pods -o wide
+ 1364  kubectl get replicationcontroller/alipne-box-replicationcontroller
+ 1365  kubectl delete pod alipne-box-replicationcontroller-rg9d5
+ 1366  kubectl get replicationcontroller/alipne-box-replicationcontroller
+ 1367  kubectl scale --replica=6 replicationcontroller/alipne-box-replicationcontroller
+ 1368  kubectl scale --replicas=6 replicationcontroller/alipne-box-replicationcontroller
+ 1369  kubectl get replicationcontroller/alipne-box-replicationcontroller
+ 1370  kubectl get pods
+ 1371  kubectl scale --replicas=2 replicationcontroller/alipne-box-replicationcontroller
+ 1372  kubectl get pods
+ 1373  kubectl get replicationcontroller/alipne-box-replicationcontroller
+ 1374  kubectl get pods
+ 1375  kubectl apply -d replicontrolr.yml
+ 1376  kubectl -d replicontrolr.yml
+ 1377  kubectl
+ 1378  kubectl delete -f replicontrolr.yml
+ 1379  kubectl get pods
+ 1380  kubectl get rc
+ 1381  kubectl get rs
+ 1382  kubectl get pods
+ 1383  cd ..
+ 1384  ls -lrth
+ 1385  minikube stop
+ 1386  minikube status
+ 1387  minikube start
+ 1388  minikube status
+ 1389  clear
+ 1390  kubectl get
+ 1391  kubectl get pod
+ 1392  kubectl get pods
+ 1393  ls -lrt
+ 1394  cd kubernetesPractice/
+ 1395  ls -lr
+ 1396  mkdir service
+ 1397  cd service/
+ 1398  vi podmanifest.yml
+ 1399  ls -l
+ 1400  kubectl apply -f podmanifest.yml
+ 1401  kubectl get pods
+ 1402  kubectl get nginxwebproxy
+ 1403  kubectl get pod/nginxwebproxy
+ 1404  vi pod-service.yml
+ 1405  kubect create -f pod-service.yml
+ 1406  kubectl apply -f pod-service.yml
+ 1407  kubectl create -f pod-service.yml
+ 1408  vi pod-service.yml 
+ 1409  vi pod-service.yml
+ 1410  kubectl create -f pod-service.yml
+ 1411  vi pod-service.yml
+ 1412  kubectl create -f pod-service.yml
+ 1413  vi pod-service.yml
+ 1414  top
+ 1415  clear
+ 1416  vi pod-service.yml 
+ 1417  minikube status
+ 1418  minikube stop
+ 1419  minikube start
+ 1420  minikube status
+ 1421  kubectl get pos
+ 1422  kubectl get po
+ 1423  vi
+ 1424  minikube stop
+ 1425  jenkin
+ 1426  sudo systemctl status jenkin
+ 1427  sudo systemctl status jenkins
+ 1428  grafana
+ 1429  sudo systemctl status grafana-server
+ 1430  sudo lsof -i -p
+ 1431  sudo lsof -h
+ 1432  sudo lsof -h -ps
+ 1433  sudo lsof -h -p
+ 1434  sudo lsof -h -P
+ 1435  clear
+ 1436  [200~sudo apt-get install -y apt-transport-https
+ 1437  sudo apt-get install -y software-properties-common wget
+ 1438  sudo apt-get install -y apt-transport-https
+ 1439  sudo wget -q -O /usr/share/keyrings/grafana.key https://apt.grafana.com/gpg.key
+ 1440  echo "deb [signed-by=/usr/share/keyrings/grafana.key] https://apt.grafana.com stable main" | sudo tee -a /etc/apt/sources.list.d/grafana.list
+ 1441  echo "deb [signed-by=/usr/share/keyrings/grafana.key] https://apt.grafana.com beta main" | sudo tee -a /etc/apt/sources.list.d/grafana.list
+ 1442  # Updates the list of available packages
+ 1443  sudo apt-get update
+ 1444  # Installs the latest OSS release:
+ 1445  sudo apt-get install grafana
+ 1446  # Installs the latest Enterprise release:
+ 1447  sudo apt-get install grafana-enterprise
+ 1448  sudo systemctl status grafana-server.service
+ 1449  sudo systemctl start grafana-server.service
+ 1450  sudo systemctl status grafana-server.service
+ 1451  jenkins
+ 1452  docker
+ 1453  ifconfig | grep 193
+ 1454  ifconfig | grep 192
+ 1455  ping 192.168.164.134
+ 1456  df -h
+ 1457  clear
+ 1458  ll
+ 1459  http
+ 1460  httpd
+ 1461  ansible
+ 1462  ping 192.168.164.134
+ 1463  ll
+ 1464  mkdir Ansible_remote_dir
+ 1465  cd Ansible_remote_dir/
+ 1466  ll
+ 1467  pwd
+ 1468  /home/updesh/ansible_updeshll
+ 1469  ll
+ 1470  cat ansible_copy_file 
+ 1471  ll
+ 1472  cat ansible_copy_file 
+ 1473  ll
+ 1474  cat ansible_copy_file.sh 
+ 1475  httpd -v
+ 1476  httpd --version
+ 1477  nginx
+ 1478  sudo nginx
+ 1479  sudo apt install nginx
+ 1480  nginx -v
+ 1481  ll
+ 1482  nginx -v
+ 1483  sudo apt uninstall nginx
+ 1484  sudo apt install nginx
+ 1485  nginx --version
+ 1486  nginx -v
+ 1487  ifconfing | grep 192
+ 1488  ifconfig | grep 192
+ 1489  httpd
+ 1490  jenkins
+ 1491  ll
+ 1492  whereis jenkins
+ 1493  docker
+ 1494  docker -h
+ 1495  docker --help
+ 1496  docker --version
+ 1497  clear
+ 1498  mkdir Jenkins_container
+ 1499  cd Jenkins_container/
+ 1500  ll
+ 1501  docker build -t myjenkins-blueocean:2.414.2 .
+ 1502  docker network create jenkins
+ 1503  docker run --name jenkins-blueocean --restart=on-failure --detach   --network jenkins --env DOCKER_HOST=tcp://docker:2376   --env DOCKER_CERT_PATH=/certs/client --env DOCKER_TLS_VERIFY=1   --publish 8080:8080 --publish 50000:50000   --volume jenkins-data:/var/jenkins_home   --volume jenkins-docker-certs:/certs/client:ro   myjenkins-blueocean:2.414.2
+ 1504  git clone https://github.com/devopsjourney1/jenkins-101.git
+ 1505  docker build -t myjenkins-blueocean:2.414.2 .
+ 1506  ll
+ 1507  cd jenkins-101/
+ 1508  ll
+ 1509  docker build -t myjenkins-blueocean:2.414.2 .
+ 1510  docker network create jenkins
+ 1511  docker network create jenkins1
+ 1512  docker run --name jenkins-blueocean --restart=on-failure --detach   --network jenkins --env DOCKER_HOST=tcp://docker:2376   --env DOCKER_CERT_PATH=/certs/client --env DOCKER_TLS_VERIFY=1   --publish 8080:8080 --publish 50000:50000   --volume jenkins-data:/var/jenkins_home   --volume jenkins-docker-certs:/certs/client:ro   myjenkins-blueocean:2.414.2
+ 1513  docker ps
+ 1514  cd /var/jenkins_home/secrets/initialAdminPassword
+ 1515  docker exec jenkins-blueocean -it /bin/bash
+ 1516  docker exec jenkins-blueocean cat /var/jenkins_home/secrets/initialAdminPassword
+ 1517  docker exec -it jenkins-blueocean /bin/bash
+ 1518  docker exec -u root -it jenkins-blueocean /bin/bash
+ 1519  ls
+ 1520  cd Jenkins_container/
+ 1521  ls
+ 1522  cd Jenkins_container/
+ 1523  ll
+ 1524  docker ps
+ 1525  docker exec -u root -it jenkins-blueocean /bin/bash
+ 1526  docker ps
+ 1527  docker --help
+ 1528  docker stop jenkins-blueocean
+ 1529  docker ps
+ 1530  docker run --name jenkins-blueocean --restart=on-failure --detach   --network jenkins --env DOCKER_HOST=tcp://docker:2376   --env DOCKER_CERT_PATH=/certs/client --env DOCKER_TLS_VERIFY=1   --publish 8080:8080 --publish 50000:50000   --volume jenkins-data:/var/jenkins_home   --volume jenkins-docker-certs:/certs/client:ro   myjenkins-blueocean:2.414.2
+ 1531  docker rm jenkins-blueocean
+ 1532  docker ps
+ 1533  docker run --name jenkins-blueocean --restart=on-failure --detach   --network jenkins --env DOCKER_HOST=tcp://docker:2376   --env DOCKER_CERT_PATH=/certs/client --env DOCKER_TLS_VERIFY=1   --publish 8080:8080 --publish 50000:50000   --volume jenkins-data:/var/jenkins_home   --volume jenkins-docker-certs:/certs/client:ro   myjenkins-blueocean:2.414.2
+ 1534  docker ps
+ 1535  docker exec jenkins-blueocean cat /var/jenkins_home/secrets/initialAdminPassword
+ 1536  jenkins
+ 1537  docker exec -it jenkins-blueocean /bin/bash
+ 1538  docker stop jenkins-blueocean
+ 1539  docker rm jenkins-blueocean
+ 1540  ls
+ 1541  docker ps
+ 1542  docker ps -a
+ 1543  docker run --name jenkins-blueocean --restart=on-failure --detach   --network jenkins --env DOCKER_HOST=tcp://docker:2376   --env DOCKER_CERT_PATH=/certs/client --env DOCKER_TLS_VERIFY=1   --publish 9090:9090 --publish 50000:50000   --volume jenkins-data:/var/jenkins_home   --volume jenkins-docker-certs:/certs/client:ro   myjenkins-blueocean:2.414.2
+ 1544  docker ps
+ 1545  docker exec jenkins-blueocean -it /bin/bash
+ 1546  docker exec -it jenkins-blueocean /bin/bash
+ 1547  \
+ 1548  docker volume
+ 1549  docker volume ls
+ 1550  docker volume rm jenkins-data jenkins-docker-certs
+ 1551  docker stop jenkins-blueocean
+ 1552  docker rm jenkins-blueocean
+ 1553  docker volume rm jenkins-data jenkins-docker-certs
+ 1554  docker port
+ 1555  docker run --name jenkins-blueocean --restart=on-failure --detach   --network jenkins --env DOCKER_HOST=tcp://docker:2376   --env DOCKER_CERT_PATH=/certs/client --env DOCKER_TLS_VERIFY=1   --publish 9090:9090 --publish 50000:50000   --volume jenkins-data:/var/jenkins_home   --volume jenkins-docker-certs:/certs/client:ro   myjenkins-blueocean:2.414.2
+ 1556  docker ps
+ 1557  docker port jenkins-blueocean 
+ 1558  docker stop jenkins-blueocean
+ 1559  docker rm jenkins-blueocean
+ 1560  docker run --name jenkins-blueocean --restart=on-failure --detach   --network jenkins --env DOCKER_HOST=tcp://docker:2376   --env DOCKER_CERT_PATH=/certs/client --env DOCKER_TLS_VERIFY=1   --publish 8080:8080 --publish 50000:50000   --volume jenkins-data:/var/jenkins_home   --volume jenkins-docker-certs:/certs/client:ro   myjenkins-blueocean:2.414.2
+ 1561  docker exec jenkins-blueocean cat /var/jenkins_home/secrets/initialAdminPassword
+ 1562  docker exec -u root -it jenkins-blueocean /bin/bash
+ 1563  docker ps
+ 1564  ifconfig | grep 192
+ 1565  docker ps
+ 1566  docker stop jenkins-blueocean
+ 1567  docker rm jenkins-blueocean 
+ 1568  docker volume prune
+ 1569  docker run --name jenkins-blueocean --restart=on-failure --detach   --network jenkins --env DOCKER_HOST=tcp://docker:2376   --env DOCKER_CERT_PATH=/certs/client --env DOCKER_TLS_VERIFY=1   --publish 8080:8080 --publish 50000:50000   --volume jenkins-data:/var/jenkins_home   --volume jenkins-docker-certs:/certs/client:ro   myjenkins-blueocean:2.414.2
+ 1570  docker ps
+ 1571  docker exec jenkins-blueocean cat /var/jenkins_home/secrets/initialAdminPassword
+ 1572  free -h
+ 1573  ls
+ 1574  sh remove_buff_cache.sh
+ 1575  free -h
+ 1576  sh remove_buff_cache.sh
+ 1577  free -h
+ 1578  sh remove_buff_cache.sh
+ 1579  free -h
+ 1580  sh remove_buff_cache.sh
+ 1581  free -h
+ 1582  apt-get autoremove
+ 1583  sudo apt-get autoremove
+ 1584  free -h
+ 1585  sh remove_buff_cache.sh
+ 1586  free -h
+ 1587  nano clean_ram.sh
+ 1588  chmod +x clean_ram.sh
+ 1589  sh clean_ram.sh
+ 1590  chmod 777 clean_ram.sh
+ 1591  sh clean_ram.sh
+ 1592  nano clean_ram.sh
+ 1593  sh clean_ram.sh
+ 1594  nano clean_ram.sh
+ 1595  sh clean_ram.sh
+ 1596  nano clean_ram.sh
+ 1597  cat remove_buff_cache.sh
+ 1598  sh remove_buff_cache.sh
+ 1599  free -h
+ 1600  docker exec -u root -it jenkins-blueocean /bin/bash
+ 1601  sh remove_buff_cache.sh
+ 1602  free -h
+ 1603  sh remove_buff_cache.sh
+ 1604  cat remove_buff_cache.sh
+ 1605  sudo sh -c 'echo 1 >  /proc/sys/vm/drop_caches'
+ 1606  free -h
+ 1607  sudo sh -c 'echo 1 >  /proc/sys/vm/drop_caches'
+ 1608  free -h
+ 1609  sudo sh -c 'echo 1 >  /proc/sys/vm/drop_caches'
+ 1610  free -h
+ 1611  reboot
+ 1612  free -h
+ 1613  sudo sh -c 'echo 1 >  /proc/sys/vm/drop_caches'
+ 1614  free -h
+ 1615  git
+ 1616  sh remove_buff_cache.sh
+ 1617  free -h
+ 1618  docker ps
+ 1619  docker exec -u root -it jenkins-blueocean /bin/bash
+ 1620  ping http://0.0.0.0:8000
+ 1621  ping 0.0.0.0:8000
+ 1622  ping localhost
+ 1623  ping localhost:8000
+ 1624  ansible -h
+ 1625  docker ps
+ 1626  sudo docker exec jenkins-blueocean /bin/bash
+ 1627  sudo docker exec jenkins-blueocean
+ 1628  sudo docker exec jenkins-blueocean /bin/sh
+ 1629  sudo docker exec -it jenkins-blueocean /bin/sh
+ 1630  sudo docker exec -it jenkins-blueocean /bin/basg
+ 1631  sudo docker exec -it jenkins-blueocean /bin/bash
+ 1632  git
+ 1633  git clone
+ 1634  git clone https://github.com/RitheeshBaradwaj/JenkinsPipeline.git
+ 1635  git push origan master https://github.com/KumarUpdesh/cicd-Jenkins.git
+ 1636  ls
+ 1637  cd JenkinsPipeline/
+ 1638  ls
+ 1639  git remote add origin https://github.com/KumarUpdesh/cicd-Jenkins.git
+ 1640  git push -u origin master
+ 1641  ls
+ 1642  ls -lrth
+ 1643  cat Jenkinsfile 
+ 1644  nano Jenkinsfile 
+ 1645  cat Jenkinsfile 
+ 1646  git remote add origin https://github.com/KumarUpdesh/cicd-Jenkins.git
+ 1647  git push -u origin master
+ 1648  cd ..
+ 1649  ls -lrth
+ 1650  mkdir Jenkins_CICD_project
+ 1651  mv JenkinsPipeline/ . Jenkins_CICD_project/
+ 1652  mv JenkinsPipeline/ Jenkins_CICD_project/
+ 1653  mv JenkinsPipeline/.  Jenkins_CICD_project/
+ 1654  mv -v JenkinsPipeline/* Jenkins_CICD_project/
+ 1655  ls -lrth
+ 1656  cd Jenkins_CICD_project/
+ 1657  ls
+ 1658  cd JenkinsPipeline/
+ 1659  ls
+ 1660  pwd
+ 1661  cd ..
+ 1662  cd Jenkins_CICD_project/
+ 1663  pwd
+ 1664  cd ..
+ 1665  cd Jenkins_CICD_project/JenkinsPipeline/
+ 1666  ls
+ 1667  mv -v /home/kubernets/Jenkins_CICD_project/JenkinsPipeline/* /home/kubernets/Jenkins_CICD_project/
+ 1668  ls
+ 1669  cd ..
+ 1670  ll
+ 1671  ls 
+ 1672  rm JenkinsPipeline/
+ 1673  rm -f JenkinsPipeline/
+ 1674  rm -d JenkinsPipeline/
+ 1675  rm -df JenkinsPipeline/
+ 1676  ls JenkinsPipeline/
+ 1677  cd JenkinsPipeline/
+ 1678  ls
+ 1679  ll
+ 1680  rm -f
+ 1681  ll
+ 1682  cd ..
+ 1683  rm -df JenkinsPipeline/
+ 1684  rm -r JenkinsPipeline/
+ 1685  s
+ 1686  ls
+ 1687  cd ..
+ 1688  ls -lrth
+ 1689  cd Jenkins_CICD_project/
+ 1690  ls
+ 1691  git push -u origin master
+ 1692  git init
+ 1693  ll
+ 1694  git push -u origin master
+ 1695  git push origin master https://github.com/KumarUpdesh/cicd-Jenkins.git
+ 1696  git status
+ 1697  git add .
+ 1698  git status
+ 1699  git commit -m "this commit for the jenkins pipeline"
+ 1700  git config --global user.email "updeshkumar@gmail.com"
+ 1701  git config --global user.name "Updesh Kumar"
+ 1702  git commit -m "this commit for the jenkins pipeline"
+ 1703  git remote add origin https://github.com/KumarUpdesh/cicd-Jenkins.git
+ 1704  git push -u origin master
+ 1705  git remote add origin https://github.com/KumarUpdesh
+ 1706  git push -u origin master
+ 1707  git pull origin master
+ 1708  ls
+ 1709  git push origin master https://github.com/KumarUpdesh
+ 1710  git push origin master https://github.com/KumarUpdesh/
+ 1711  git push origin master https://www.github.com/KumarUpdesh/
+ 1712  git push origin master https://github.com/KumarUpdesh/
+ 1713  ll
+ 1714  git init
+ 1715  ll
+ 1716  git status
+ 1717  git push origin master https://github.com/KumarUpdesh/
+ 1718  git push origin master
+ 1719  git pull
+ 1720  git switch main
+ 1721  git pull
+ 1722  git push origin master
+ 1723  ;;
+ 1724  ll
+ 1725  ls
+ 1726  git pull
+ 1727  ls
+ 1728  git status
+ 1729  git log
+ 1730  ll
+ 1731  cd ..
+ 1732  ll
+ 1733  cd Jenkins_CICD_project/
+ 1734  ll
+ 1735  cd ..
+ 1736  ll
+ 1737  ls -l
+ 1738  echo "this line for checking tail " > history.txt 
+ 1739  ehco "another test for tail command" > history.txt 
+ 1740  echo "another test for tail command" > history.txt 
+ 1741  echo "another test for tail command test3" >> history.txt 
+ 1742  whoclear
+ 1743  clear
+ 1744  who
+ 1745  whoami
+ 1746  which python
+ 1747  which python3
+ 1748  which java
+ 1749  which java11
+ 1750  uname
+ 1751  uptime
+ 1752  which python3
+ 1753  who
+ 1754  whois
+ 1755  whois google.com
+ 1756  whoami
+ 1757  sudo reboot
+ 1758  nslookuo
+ 1759  nslookup
+ 1760  ping
+ 1761  ping googl.com
+ 1762  netstat
+ 1763  traceroute youtube.com
+ 1764  sudo apt-get update
+ 1765  apt-get upgrade
+ 1766  sudo apt-get upgrade
+ 1767  apt-get upgrade -y
+ 1768  sudo apt-get update -y
+ 1769  sudo apt-get upgrade -Y
+ 1770  sudo apt-get upgrade -y
+ 1771  sudo apt-get update
+ 1772  nslookup
+ 1773  net
+ 1774  hjhfgghjkl
+ 1775  nslookup google.com
+ 1776  netstat
+ 1777  ifconfig | grep 192
+ 1778  mtr google.com
+ 1779  tracepath youtube.com
+ 1780  telnet youtube.com
+ 1781  telnet youtube.com80
+ 1782  telnet youtube.com 80
+ 1783  hostname
+ 1784  IP Address show
+ 1785  IP address show
+ 1786  IP ADDRESS show
+ 1787  IP -h
+ 1788  iwconfig
+ 1789  whois youtube.com
+ 1790  arp
+ 1791  iptables --list-rule
+ 1792  suod iptables --list-rule
+ 1793  sudo iptables --list-rule
+ 1794  nmap youtube.com
+ 1795  sudo snap install nmap
+ 1796  nmap
+ 1797  nmap youtube.com
+ 1798  netcat youtube.com
+ 1799  netcat youtube.com 80
+ 1800  ping google.com
+ 1801  netstat
+ 1802  ifconfig
+ 1803  traceroute
+ 1804  traceroute google.co
+ 1805  nslookup google.con
+ 1806  nslookup google.com
+ 1807  arp
+ 1808  Nmap
+ 1809  nmap
+ 1810  nmap -v -A google.con
+ 1811  nmap -v -A google.com
+ 1812  unname
+ 1813  uname
+ 1814  uptine
+ 1815  uptime
+ 1816  date
+ 1817  who
+ 1818  whoami
+ 1819  which python3
+ 1820  cat /etc/passwd
+ 1821  cat /etc/group
+ 1822  sudo useradd -m updesh
+ 1823  cat /etc/passwd
+ 1824  sudo passwd updesh
+ 1825  su updesh
+ 1826  sudo userdel updesh 
+ 1827  pass
+ 1828  cat /etc/passwd
+ 1829  sudo groupadd admin
+ 1830  cat /etc/group
+ 1831  sudo useradd updesh
+ 1832  sudo gppasswd -a updesh admin
+ 1833  sudo gpasswd -a updesh admin
+ 1834  cat /etc/group
+ 1835  umask
+ 1836  which jenkins
+ 1837  ls
+ 1838  ls -l
+ 1839  cd Jenkins_
+ 1840  cd Jenkins_CICD_project/
+ 1841  ls
+ 1842  ls -l
+ 1843  cd ..
+ 1844  cd Jenkins_container/
+ 1845  ls
+ 1846  cd jenkins-101/
+ 1847  ls
+ 1848  cd ..
+ 1849  vi system.log
+ 1850  clear
+ 1851  ls
+ 1852  mv system.log system_sample.log
+ 1853  ls
+ 1854  clear
+ 1855  ping google.com
+ 1856  ping
+ 1857  ping localhost
+ 1858  ping googl.com
+ 1859  ping google.com
+ 1860  netstat -help
+ 1861  netstat -a
+ 1862  netstat -l
+ 1863  traceroute youtube.com
+ 1864  tracepath youtube.com
+ 1865  nslookup
+ 1866  teltellll
+ 1867  whois youtube.com
+ 1868  netcat youtube.com 80
+ 1869  nc youtube.com 80
+ 1870  nmap youtube.com
+ 1871  route youtube.com
+ 1872  iptable
+ 1873  iptables --list-rule
+ 1874  sudo iptables --list-rule
+ 1875  ls -l
+ 1876  mkdir tar_dir
+ 1877  cd tar_dir/
+ 1878  touch file.tst
+ 1879  touch file2.txt
+ 1880  mkdir devops
+ 1881  nano file3.txt
+ 1882  cat file3.txt 
+ 1883  cd ..
+ 1884  cd tar_dir/
+ 1885  ls -l
+ 1886  cd ..
+ 1887  tar -cvzf after_tar tar_dir/
+ 1888  ls -l
+ 1889  cat after_tar 
+ 1890  tar -cvzf after1_tar.tar.gz tar_dir/
+ 1891  ls -l
+ 1892  tar -xvzf after1_tar.tar.gz 
+ 1893  ls -l
+ 1894  tar -xvzf after1_tar.tar.gz
+ 1895  ls -l
+ 1896  cat after1_tar.tar.gz 
+ 1897  cp after1_tar.tar.gz tar_dir/devops/
+ 1898  ls 
+ 1899  cd tar_dir/devops/
+ 1900  ls 
+ 1901  tar -xvzf after1_tar.tar.gz 
+ 1902  ls -l
+ 1903  cd tar_dir/
+ 1904  ls 
+ 1905  cd devops/
+ 1906  cd ../..
+ 1907  cd ..
+ 1908  rm -r tar_dir/
+ 1909  ls -l
+ 1910  rm -r after1_tar.tar.gz 
+ 1911  ls -l
+ 1912  rm -r after_tar 
+ 1913  ls -l
+ 1914  awk '{print}' system_sample.log 
+ 1915  awk '{print $1}' system_sample.log 
+ 1916  awk '{print $1 $2}' system_sample.log 
+ 1917  awk '{print $1,$2}' system_sample.log 
+ 1918  awk '/user unknown/ {print $1,$2}' system_sample.log 
+ 1919  awk '/user unknown/ {print $1,$2,$3,$4,$5}' system_sample.log 
+ 1920  awk '/user unknown/ {print $1,$2,$3,$4,$5,$6}' system_sample.log 
+ 1921  awk '/user unknown/ {print}' system_sample.log 
+ 1922  awk '/user unknown/ {count++} END {print count}' system_sample.log 
+ 1923  awk '/user unknown/ {count++} END {print "the count is ",count}' system_sample.log 
+ 1924  awk '$3>= 14 && $3<=16 {print}' system_sample.log 
+ 1925  awk 'NR >= 2 && NR <= 9 {print}' system_sample.log 
+ 1926  awk 'NR >= 2 && NR <= 5 {print}' system_sample.log 
+ 1927  awk 'NR >= 2 {print}' system_sample.log 
+ 1928  awk 'NR  2 {print}' system_sample.log 
+ 1929  awk 'NR 2 {print}' system_sample.log 
+ 1930  awk 'NR 2 {print NR}' system_sample.log 
+ 1931  awk 'NR >= 2 && NR <= 5 {print NR}' system_sample.log 
+ 1932  sed -n '/session opened for user cyrus/p' system_sample.log 
+ 1933  sed -n -e '/session opened/=' system_sample.log
+ 1934  sudo docker ps
+ 1935  clar
+ 1936  clear
+ 1937  git clone https://github.com/johnpapa/node-hello.git
+ 1938  ls -l
+ 1939  rm -rf node-hello/
+ 1940  ls -l
+ 1941  cd Jenkins_container/
+ 1942  ls -l
+ 1943  cd jenkins-101/
+ 1944  ls-l
+ 1945  ls -l
+ 1946  cd ..
+ 1947  rm -rf jenkins-101/
+ 1948  git clone https://github.com/johnpapa/node-hello.git
+ 1949  ls -l
+ 1950  cd node-hello/
+ 1951  ls -
+ 1952  ls -l
+ 1953  cd ..
+ 1954  tar -cvzf node-hello1.tar.gz node-hello/
+ 1955  ls -l
+ 1956  cd ..
+ 1957  mkdir git-hub-nodejs-code
+ 1958  pwd
+ 1959  cd Jenkins_container/
+ 1960  ls -l
+ 1961  pwd
+ 1962  cp /home/kubernets/Jenkins_container/node-hello1.tar.gz /home/kubernets/git-hub-nodejs-code/
+ 1963  cd ..
+ 1964  cd git-hub-nodejs-code/
+ 1965  ls -l
+ 1966  tar -xvzf node-hello1.tar.gz 
+ 1967  ls -l
+ 1968  cd node-hello/
+ 1969  ls -l
+ 1970  ls -la
+ 1971  git init
+ 1972  git status
+ 1973  git add .
+ 1974  git status
+ 1975  git commit -m "first commit for the node file"
+ 1976  rm -r .git
+ 1977  rm -rf .git
+ 1978  git init
+ 1979  git status
+ 1980  git add .
+ 1981  git status
+ 1982  git commit -m "first commit for node js code"
+ 1983  git status
+ 1984  git config --list
+ 1985  git remote add origin https://github.com/KumarUpdesh/node-hello-code-jenkins.git
+ 1986  git push -u origin https://github.com/KumarUpdesh/node-hello-code-jenkins.git
+ 1987  git push -u origin main
+ 1988  git push -u origin master
+ 1989  git pull
+ 1990  ls -l
+ 1991  git push -u origin main
+ 1992  git push origin main
+ 1993  arp
+ 1994  curl -X GET https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log_structured.csv
+ 1995  curl -X GET https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log_structured.csv | Jq
+ 1996  curl -X GET https://github.com/logpai/loghub/blob/master/Linux/Linux_2k.log_structured.csv | jq
+ 1997  sudo apt install jq
+ 1998  cd git-hub-nodejs-code/
+ 1999  ls -l
+ 2000  cd node-hello/
+ 2001  l s-l
+ 2002  ls -l
+ 2003  ls -la
+ 2004  ls -a
+ 2005  cd .git/
+ 2006  ls -l
+ 2007  cd branches/
+ 2008  ls -l
+ 2009  git status 
+ 2010  cd ..
+ 2011  git sta
+ 2012  git status 
+ 2013  git fetch 
+ 2014  cd ..
+ 2015  ls l
+ 2016  ls -l
+ 2017  mkdir test-dir-timepass
+ 2018  cd test-dir-timepass/
+ 2019  git clone https://github.com/johnpapa/node-hello.git
+ 2020  ls -l
+ 2021  cd node-hello/
+ 2022  ls -l
+ 2023  rm -rf .git
+ 2024  ls -la
+ 2025  git init
+ 2026  git status 
+ 2027  git remote add origin https://github.com/KumarUpdesh/test-dir-timepass.git
+ 2028  git status 
+ 2029  git branch -b updesh
+ 2030  ssh -T git@github.com
+ 2031  git checkout -b updesh/main
+ 2032  git add .
+ 2033  git commit -m "fist commit for the node"
+ 2034  git push -u origin updesh/main
+ 2035  history >> file1.txt
